@@ -20,8 +20,6 @@ function Divide(a,b){
     return a/b;
 }
 
-sdsdadasdsadassdsd
-
 function testadd(a,b){
 
 console.log(add(1,1)==2);
