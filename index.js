@@ -8,16 +8,17 @@ function sub(a,b){
     return a-b;
 }
 
-function Multifly(a,b){
+
+function mul(a,b){
 
     return a*b;
 }
+
 
 function Divide(a,b){
 
     return a/b;
 }
-
 
 function testadd(a,b){
 
@@ -30,3 +31,4 @@ function testsub(a,b){
     console.log(sub(2,1)==1);
         
 }
+
