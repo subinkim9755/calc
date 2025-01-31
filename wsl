@@ -1,0 +1,29 @@
+[1mdiff --git a/index.js b/index.js[m
+[1mindex e3dfe02..b6b59f0 100644[m
+[1m--- a/index.js[m
+[1m+++ b/index.js[m
+[36m@@ -12,10 +12,4 @@[m [mfunction testadd(a,b){[m
+ [m
+ console.log(add(1,1)==2);[m
+     [m
+[31m-}[m
+[31m-[m
+[31m-function testsub(a,b){[m
+[31m-[m
+[31m-    console.log(sub(2,1)==1);[m
+[31m-        [m
+ }[m
+\ No newline at end of file[m
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex 627de59..87c1038 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -1,6 +1 @@[m
+[31m-# calc[m
+[31m-[m
+[31m-## API[m
+[31m-[m
+[31m-- `add(a,b)`:a+b[m
+[31m-- `sub(a,b)`:a-b[m
+[32m+[m[32m# calc[m
+\ No newline at end of file[m
